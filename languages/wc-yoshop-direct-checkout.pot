@@ -1,0 +1,71 @@
+# Copyright (C) 2014 Yoshop Direct Checkout for WooCommerce
+# This file is distributed under the same license as the Yoshop Direct Checkout for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yoshop Direct Checkout for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wc-yoshop-direct-checkout\n"
+"POT-Creation-Date: 2014-12-29 02:34:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wc-yoshop-direct-checkout.php:183 wc-yoshop-direct-checkout.php:200
+#: wc-yoshop-direct-checkout.php:215
+msgid "Direct Checkout"
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:211
+msgid "You have saved YoShop Direct Checkout options."
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:230
+msgid "Direct Checkout Options"
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:235
+msgid "Allow you to implement direct checkout without affecting the existing cart for WooCommerce."
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:246
+msgid "Enable"
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:253
+msgid "Custom Add to Cart Text"
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:263
+msgid "Save Options"
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:285
+msgid "<b>Yoshop Direct Checkout for WooCommerce</b> is a FREE woocommerce plugin developed by"
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:285
+msgid "http://www.yoshopm.com/en/"
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:285
+msgid "This plugin aims to add direct checkout for WooCommerce."
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:290
+msgid "http://www.yoshopm.com/en/product/yoshop-direct-checkout-pro/"
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:294
+msgid "Go to YoshopM Facebook Page</a> to get more information Yoshop Direct Checkout plugins."
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:298
+msgid "http://www.yoshopm.com/en/shop/"
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:298
+msgid "Go to YoshopM Site</a> to get more free and premium extensions/plugins for your ecommerce sites."
+msgstr ""
+

@@ -1,0 +1,86 @@
+# Copyright (C) 2014 Yoshop Direct Checkout for WooCommerce
+# This file is distributed under the same license as the Yoshop Direct Checkout for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yoshop Direct Checkout for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wc-yoshop-direct-"
+"checkout\n"
+"POT-Creation-Date: 2014-12-29 02:34:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-12-29 11:57+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ko_KR\n"
+
+#: wc-yoshop-direct-checkout.php:183 wc-yoshop-direct-checkout.php:200
+#: wc-yoshop-direct-checkout.php:215
+msgid "Direct Checkout"
+msgstr "바로 구매"
+
+#: wc-yoshop-direct-checkout.php:211
+msgid "You have saved YoShop Direct Checkout options."
+msgstr "바로 구매 옵션을 저장했습니다."
+
+#: wc-yoshop-direct-checkout.php:230
+msgid "Direct Checkout Options"
+msgstr "바로 구매 옵션"
+
+#: wc-yoshop-direct-checkout.php:235
+msgid ""
+"Allow you to implement direct checkout without affecting the existing cart "
+"for WooCommerce."
+msgstr "기존 카트를 지우지 않고 바로 구매 기능을 사용할 수 있습니다."
+
+#: wc-yoshop-direct-checkout.php:246
+msgid "Enable"
+msgstr "사용"
+
+#: wc-yoshop-direct-checkout.php:253
+msgid "Custom Add to Cart Text"
+msgstr "장바구니 텍스트 변경"
+
+#: wc-yoshop-direct-checkout.php:263
+msgid "Save Options"
+msgstr "저장 옵션"
+
+#: wc-yoshop-direct-checkout.php:285
+msgid ""
+"<b>Yoshop Direct Checkout for WooCommerce</b> is a FREE woocommerce plugin "
+"developed by"
+msgstr ""
+
+#: wc-yoshop-direct-checkout.php:285
+msgid "http://www.yoshopm.com/en/"
+msgstr "http://www.yoshopm.com"
+
+#: wc-yoshop-direct-checkout.php:285
+msgid "This plugin aims to add direct checkout for WooCommerce."
+msgstr "이 플러그인은 WooCommerce에 바로 구매 기능을 제공합니다."
+
+#: wc-yoshop-direct-checkout.php:290
+msgid "http://www.yoshopm.com/en/product/yoshop-direct-checkout-pro/"
+msgstr "http://www.yoshopm.com/product/yoshop-direct-checkout-pro/"
+
+#: wc-yoshop-direct-checkout.php:294
+msgid ""
+"Go to YoshopM Facebook Page</a> to get more information Yoshop Direct "
+"Checkout plugins."
+msgstr ""
+"Go to YoshopM Facebook Page</a> 에서 플러그인에 대한 좀 더 많은 정보를 제공합"
+"니다."
+
+#: wc-yoshop-direct-checkout.php:298
+msgid "http://www.yoshopm.com/en/shop/"
+msgstr "http://www.yoshopm.com/shop/"
+
+#: wc-yoshop-direct-checkout.php:298
+msgid ""
+"Go to YoshopM Site</a> to get more free and premium extensions/plugins for "
+"your ecommerce sites."
+msgstr ""
+"Go to YoshopM Site</a> 에서 쇼핑몰 구축에 필요한 많은 플러그인과 테마 정보를 "
+"제공합니다."
